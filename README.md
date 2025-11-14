@@ -12,6 +12,13 @@ This project focuses on developing a model capable of performing Question-Answer
 <p align="center"><b>Figure 1. The architecture of our proposed model.</b></p>
 
 ## Quick Start
+### Dataset Preparation
+The project supports multiple datasets for training and testing. Click the dataset names below to access their official download sources:  
+
+- [Amazon Reviews](https://jmcauley.ucsd.edu/data/amazon/) (Official Amazon product review datasets, covering various categories like electronics, clothing, and home goods)  
+- [multiWOZ](https://github.com/budzianowski/multiwoz.git) (Multi-domain, multi-turn dialogue dataset for complex conversational QA scenarios)  
+- [Contextual Product Question Answering](https://github.com/amazon-science/contextual-product-qa.git) (E-commerce-focused PQA dataset with heterogeneous information sources and context-aware annotations)  
+- [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/) (Sentiment-annotated movie review dataset, applicable for sentiment-aware QA tasks)
 
 ## Project Scope
 This project follows a 4-week implementation plan for the project from topic selection to Demo delivery.
