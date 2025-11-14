@@ -9,5 +9,10 @@ This project focuses on developing a model capable of performing Question-Answer
 <p align="center">
   <img src="docs/Architecture.png" width="75%">
 </p>
-
 <p align="center"><b>Figure 1. The architecture of our proposed model.</b></p>
+
+## Quick Start
+
+## Project Scope
+This project is divided into 4 steps and each step is developed approximately one week.
+### Week 1
