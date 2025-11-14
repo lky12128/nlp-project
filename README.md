@@ -1,2 +1,2 @@
 # EE6405 NLP PROJECT
-![BRIDGE Logo](docs/logo.png)
+<img src="docs/logo.png" alt="BRIDGE Logo" width="300">  
